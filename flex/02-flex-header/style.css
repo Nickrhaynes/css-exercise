@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
