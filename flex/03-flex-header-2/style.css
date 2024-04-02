@@ -6,8 +6,6 @@ body {
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
-  flex-direction: row;
-  flex-wrap: nowrap;
 }
 
 .header {
@@ -17,7 +15,6 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 8px;
-  flex: 1;
 }
 
 .profile-image {
