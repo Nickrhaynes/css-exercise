@@ -15,18 +15,12 @@ img {
   padding: 32px;
 }
 
-.text{
+.container {
   display: flex;
   justify-content: space-between;
   gap: 52px;
   min-width: 200px;
 }
-/*.container {
-  display: flex;
-  justify-content: space-between;
-  gap: 52px;
-  min-width: 200px;
-}*/
 
 /* do not edit this footer */
 .footer {
