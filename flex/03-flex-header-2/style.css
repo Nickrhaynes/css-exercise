@@ -6,7 +6,6 @@ body {
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
-  display: flex;
   ;
 }
 
@@ -25,9 +24,6 @@ body {
   border-radius: 50%;
   width: 48px;
   height: 48px;
-  padding: 8px;
-  gap: 8px;
-
 }
 
 .logo {
@@ -35,7 +31,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  padding: 8px;
 }
 
 button {
@@ -44,7 +39,6 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  gap: 8px;
 }
 
 a {
