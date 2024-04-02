@@ -19,7 +19,7 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
-  min-width: 200px;
+  flex-basis: 200px;
 }
 
 .container2 {
