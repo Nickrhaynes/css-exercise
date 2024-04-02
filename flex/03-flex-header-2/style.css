@@ -6,7 +6,7 @@ body {
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
-  ;
+  display: flex;
 }
 
 .header {
@@ -15,7 +15,8 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
-  padding: 8px
+  padding: 8px;
+  flex: 1;
 }
 
 .profile-image {
