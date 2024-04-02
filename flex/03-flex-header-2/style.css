@@ -7,12 +7,15 @@ body {
   background: #eee;
   font-family: Besley, serif;
   display: flex;
+  ;
 }
 
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  flex-direction: row;
+  display: flex;
 }
 
 .profile-image {
