@@ -22,6 +22,12 @@ img {
   min-width: 200px;
 }
 
+.container2 {
+  display: flex;
+  justify-content: center;
+  padding: 5px
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
