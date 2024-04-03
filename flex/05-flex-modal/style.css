@@ -21,6 +21,7 @@ body {
   justify-content: space-between;
   font-weight: bold;
 }
+
 .modal {
   background: white;
   width: 480px;
@@ -28,7 +29,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
   gap: 15px;
-  padding: 20px;
+  padding: 15px;
 }
 
 .icon {
@@ -42,6 +43,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.right{
+  display: flex;
+  flex-direction: column;
+  gap: 8px
 }
 
 .close-button {
@@ -63,7 +70,6 @@ button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
-  padding: 20px
 }
 
 button.continue {
