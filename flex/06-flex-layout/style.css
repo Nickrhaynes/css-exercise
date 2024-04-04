@@ -36,5 +36,20 @@ a {
 
 .header {
   display: flex;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  align-content: flex-end;
 
 }
