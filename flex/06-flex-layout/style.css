@@ -43,6 +43,7 @@ a {
   display: flex;
   align-content: center;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer {
@@ -56,12 +57,10 @@ a {
   display: flex;
   justify-content: space-around;
   margin-right: auto;
-  padding: 8px;
 }
 
 .right-links {
   display: flex;
   justify-content: space-around;
   margin-left: auto;
-  padding: 8px
 }
