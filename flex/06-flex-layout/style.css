@@ -48,5 +48,14 @@ a {
 .footer {
   display: flex;
   align-content: flex-end;
+}
 
+.left-links {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.right-links {
+  display: flex;
+  justify-content: flex-end;
 }
