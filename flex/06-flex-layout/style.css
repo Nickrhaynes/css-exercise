@@ -41,14 +41,14 @@ a {
 
 .content {
   display: flex;
-  align-content: center;
+  align-items: center;
   flex-direction: column;
   justify-content: space-between;
 }
 
 .footer {
   display: flex;
-  align-content: flex-end;
+  align-items: flex-end;
   background-color: #eeeeee;
   margin-top: auto;
 }
