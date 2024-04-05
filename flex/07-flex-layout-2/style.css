@@ -20,7 +20,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  justify-content: center;
+  align-items: center;
 }
 
 ul{
@@ -39,6 +39,7 @@ ul{
   border-radius: 4px;
   width: 200px;
   padding: 8px;
+  margin: 20px;
 }
 
 .container {
