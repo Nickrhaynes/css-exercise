@@ -45,6 +45,7 @@ ul{
   display: flex;
   flex-wrap: wrap;
   flex: 1;
+  align-content: space-around;
 }
 
 .body {
