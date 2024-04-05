@@ -58,12 +58,17 @@ a {
 
 .left-links {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
   margin-right: auto;
+  color: darkgray;
+  padding: 8px;
 }
 
 .right-links {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-end;
   margin-left: auto;
+  color: darkgray;
+  padding: 8px;
+  font-size: 12px;
 }
