@@ -25,6 +25,8 @@ body {
 
 ul{
   list-style: none;
+  text-decoration: none;
+  gap: 8px;
 }
 
 .sidebar {
@@ -37,7 +39,7 @@ ul{
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  width: 200px;
+  width: 300px;
   padding: 8px;
   margin: 20px;
 }
