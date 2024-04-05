@@ -7,7 +7,7 @@ body {
   font-family: Roboto, sans-serif;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 img {
@@ -44,7 +44,6 @@ a {
 
 .content {
   display: flex;
-  align-items: center;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
